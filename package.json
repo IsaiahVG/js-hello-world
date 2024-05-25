@@ -6,6 +6,8 @@
    "author": "Launchcode",
    "license": "ISC",
    "dependencies": {
+      "hello.js": "^1.0.0",
+      "node": "^18.20.3",
       "readline-sync": "^1.4.10"
    }
 }
